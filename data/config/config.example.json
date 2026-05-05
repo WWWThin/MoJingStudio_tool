@@ -1,0 +1,19 @@
+{
+  "api_key": "",
+  "video_endpoint": "",
+  "video_fast_endpoint": "",
+  "doubao_seedance_1_0_pro_fast_endpoint": "",
+  "custom_video_endpoint": "",
+  "image_endpoint": "",
+  "research_endpoint": "",
+  "output_dir": "outputs",
+  "last_project_name": "Project",
+  "last_shot_name": "S01",
+  "poll_delay": 45,
+  "poll_interval": 5,
+  "enable_tos_upload": false,
+  "tos_bucket": "",
+  "tos_endpoint": "",
+  "tos_access_key": "",
+  "tos_secret_key": ""
+}
