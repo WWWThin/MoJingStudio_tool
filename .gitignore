@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Local runtime data
+outputs/
+data/config/config.json
+data/config/cloud_task_overrides.json
+data/persona_previews/
+
+# Local secrets and generated files
+config.json
+cloud_task_overrides.json
+*.log
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
